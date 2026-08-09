@@ -1,10 +1,10 @@
-# Skill-WorkJournal 系统模板（中文版）
+# Skill-WorkingJournal 系统模板（中文版）
 
 一套开箱即用的**双仓库操作系统**，用于与 AI 助手一起开展日常工程工作。本模板是从一套实际生产环境中提炼并脱敏的通用模板——不含任何公司名、人名、客户名、资源名或凭据。
 
 > **开始使用前，请输入：**"请阅读说明文件，然后我们开始搭建吧"
 
-> 🌐 **English version:** [Skill-WorkJournal](https://github.com/HeathHuang-7243/Skill-WorkJournal.git)
+> 🌐 **English version:** [Skill-WorkingJournal](https://github.com/HeathHuang-7243/Skill-WorkingJournal.git)
 
 ## 这套系统是什么
 
